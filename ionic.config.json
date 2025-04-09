@@ -1,0 +1,7 @@
+{
+  "name": "baseAppT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
