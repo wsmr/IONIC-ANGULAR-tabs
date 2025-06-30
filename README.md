@@ -1,6 +1,8 @@
 # IONIC-ANGULAR-tabs
 
+## Project File Structure
 
+```
 /home/ubuntu/baseAppT/ - Root directory for the unzipped project.
 ├── __MACOSX/ - This folder is typically created on macOS systems when zipping files and contains metadata. It can usually be ignored.
 │   └── baseAppT/ - Subdirectory within __MACOSX, mirroring the main project structure.
@@ -73,4 +75,4 @@
 │   ├── tsconfig.app.json - TypeScript configuration specific to the application build.
 │   ├── tsconfig.json - Base TypeScript configuration for the entire project.
 │   └── tsconfig.spec.json - TypeScript configuration specific to the test build.
-
+```
